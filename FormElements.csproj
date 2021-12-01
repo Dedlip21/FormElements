@@ -81,6 +81,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="bird1.jpg" />
+    <Content Include="images\food.xml" />
+    <Content Include="images\ElPrimo.png" />
+    <Content Include="images\SuperIdol.jpg" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
